@@ -1,0 +1,2 @@
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\Debug\learnopengl_cn_project.exe
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\Debug\learnopengl_cn_project.pdb
