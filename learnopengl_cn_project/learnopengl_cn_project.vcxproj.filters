@@ -18,8 +18,16 @@
     <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="triangles_two_diff_color_05.cpp">
+    <ClCompile Include="shader_change_10.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\08_shader.vs" />
+    <None Include="shaders\08_shader.fs" />
+    <None Include="shaders\09_shader.vs" />
+    <None Include="shaders\09_shader.fs" />
+    <None Include="shaders\10_shader.vs" />
+    <None Include="shaders\10_shader.fs" />
   </ItemGroup>
 </Project>
