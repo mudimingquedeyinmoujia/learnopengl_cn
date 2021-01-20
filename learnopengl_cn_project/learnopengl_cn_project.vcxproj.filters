@@ -18,7 +18,10 @@
     <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="shader_change_10.cpp">
+    <ClCompile Include="stb_image_change.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glm_test_13.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,5 +32,19 @@
     <None Include="shaders\09_shader.fs" />
     <None Include="shaders\10_shader.vs" />
     <None Include="shaders\10_shader.fs" />
+    <None Include="shaders\11_shader.vs" />
+    <None Include="shaders\11_shader.fs" />
+    <None Include="shaders\12_shader.vs" />
+    <None Include="shaders\12_shader.fs" />
+    <None Include="shaders\13_shader.vs" />
+    <None Include="shaders\13_shader.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="textures\laugh.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="textures\mutou.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>

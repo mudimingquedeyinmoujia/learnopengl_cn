@@ -1,4 +1,3 @@
-﻿  shader_change_10.cpp
+﻿  glm_test_13.cpp
 E:\IncludesOrLibs\includes\learnopengl\shader_s.h(43,40): warning C4101: “e”: 未引用的局部变量
-E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\shader_change_10.cpp(97,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
   learnopengl_cn_project.vcxproj -> E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\Debug\learnopengl_cn_project.exe

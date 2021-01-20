@@ -143,7 +143,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="glad.c" />
-    <ClCompile Include="shader_change_10.cpp" />
+    <ClCompile Include="glm_test_13.cpp" />
+    <ClCompile Include="stb_image_change.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders\08_shader.fs" />
@@ -152,6 +153,16 @@
     <None Include="shaders\09_shader.fs" />
     <None Include="shaders\10_shader.fs" />
     <None Include="shaders\10_shader.vs" />
+    <None Include="shaders\11_shader.fs" />
+    <None Include="shaders\11_shader.vs" />
+    <None Include="shaders\12_shader.fs" />
+    <None Include="shaders\12_shader.vs" />
+    <None Include="shaders\13_shader.fs" />
+    <None Include="shaders\13_shader.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="textures\laugh.png" />
+    <Image Include="textures\mutou.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
