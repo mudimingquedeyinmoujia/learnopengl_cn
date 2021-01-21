@@ -21,7 +21,7 @@
     <ClCompile Include="stb_image_change.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="glm_test_13.cpp">
+    <ClCompile Include="glm_3d_cube10_16.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -38,6 +38,12 @@
     <None Include="shaders\12_shader.fs" />
     <None Include="shaders\13_shader.vs" />
     <None Include="shaders\13_shader.fs" />
+    <None Include="shaders\14_shader.vs" />
+    <None Include="shaders\14_shader.fs" />
+    <None Include="shaders\15_shader.vs" />
+    <None Include="shaders\15_shader.fs" />
+    <None Include="shaders\16_shader.vs" />
+    <None Include="shaders\16_shader.fs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="textures\laugh.png">
