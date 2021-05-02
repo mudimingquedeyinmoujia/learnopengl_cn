@@ -142,8 +142,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="camera_17.cpp" />
     <ClCompile Include="glad.c" />
-    <ClCompile Include="glm_3d_cube10_16.cpp" />
     <ClCompile Include="stb_image_change.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -165,6 +165,8 @@
     <None Include="shaders\15_shader.vs" />
     <None Include="shaders\16_shader.fs" />
     <None Include="shaders\16_shader.vs" />
+    <None Include="shaders\17_shader.fs" />
+    <None Include="shaders\17_shader.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="textures\laugh.png" />
