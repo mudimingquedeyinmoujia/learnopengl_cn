@@ -1,1 +1,21 @@
-﻿  learnopengl_cn_project.vcxproj -> E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\Debug\learnopengl_cn_project.exe
+﻿  light_func_21.cpp
+E:\IncludesOrLibs\includes\learnopengl\shader_m.h(56,40): warning C4101: “e”: 未引用的局部变量
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(196,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(231,62): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(232,66): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(239,62): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(240,66): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(247,62): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(248,66): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(255,62): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(256,66): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(264,57): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(265,61): warning C4305: “参数”: 从“double”到“float”截断
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(367,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(368,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(372,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(373,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(375,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(376,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\light_func_21.cpp(385,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  learnopengl_cn_project.vcxproj -> E:\AboutOpenGL\gitproj\learnopengl_cn\learnopengl_cn_project\Debug\learnopengl_cn_project.exe

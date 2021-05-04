@@ -21,7 +21,7 @@
     <ClCompile Include="stb_image_change.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="camera_17.cpp">
+    <ClCompile Include="light_func_21.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -46,6 +46,22 @@
     <None Include="shaders\16_shader.fs" />
     <None Include="shaders\17_shader.vs" />
     <None Include="shaders\17_shader.fs" />
+    <None Include="shaders\18_shader.vs" />
+    <None Include="shaders\18_shader.fs" />
+    <None Include="shaders\18_shader2.vs" />
+    <None Include="shaders\18_shader2.fs" />
+    <None Include="shaders\19_shader.vs" />
+    <None Include="shaders\19_shader.fs" />
+    <None Include="shaders\19_shader2.vs" />
+    <None Include="shaders\19_shader2.fs" />
+    <None Include="shaders\20_shader.vs" />
+    <None Include="shaders\20_shader.fs" />
+    <None Include="shaders\20_shader2.vs" />
+    <None Include="shaders\20_shader2.fs" />
+    <None Include="shaders\21_shader.vs" />
+    <None Include="shaders\21_shader.fs" />
+    <None Include="shaders\21_shader2.vs" />
+    <None Include="shaders\21_shader2.fs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="textures\laugh.png">
